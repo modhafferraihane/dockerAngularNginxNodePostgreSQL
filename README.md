@@ -8,7 +8,7 @@ If you find this useful, remember about giving a start ⭐ to this repo or share
 
 ![docker_facebook_share](https://user-images.githubusercontent.com/57062736/139103227-36f3cb32-c3c1-4158-b99e-25a31e955f44.png)
 
-This is a complete stack for running builded Angular App into Docker containers using docker compose tool, with a proxy Nginx between front and back (conected to the DB container with Sequelize ORM).
+This is a complete stack for running builded Angular App into Docker containers using docker compose tool, with a proxy Nginx between front and back (conected to the DB container with Sequelize ORM). 
 
 It is composed by 4 containers:
 
